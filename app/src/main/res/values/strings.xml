@@ -3,4 +3,5 @@
     <string name="textview1">TextView1</string>
     <string name="ask_questions">Ask questions</string>
     <string name="hva_lurer_du_p">Hva lurer du på?</string>
+    <string name="question">Question?</string>
 </resources>
